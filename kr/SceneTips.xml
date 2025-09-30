@@ -1,0 +1,35 @@
+<root>
+	<item pkgname="com.tencent.ig" >
+		<Scene scene_id="10001" texture_id="87"  comm="支付页面">
+			<region locale="NONE" lang="NONE" langid="9999" nation="NONE" ></region>
+		</Scene>		
+	</item>
+	<item pkgname="com.vng.pubgmobile" >
+		<Scene scene_id="10001" texture_id="87"  comm="支付页面">
+			<region locale="NONE" lang="NONE" langid="9999" nation="NONE" ></region>
+		</Scene>		
+	</item>
+	<item pkgname="com.tencent.tmgp.pubgmhd" >
+		<Scene scene_id="10002" texture_id="90" comm="当面开黑二维码">
+			<region locale="CN" lang="zh" langid="2052" nation="CN" ></region>
+		</Scene>
+		<Scene scene_id="10003" texture_id="500" comm="游戏组队大厅">
+			<region locale="CN" lang="zh" langid="2052" nation="CN" ></region>
+		</Scene>
+		<Scene scene_id="10004" texture_id="17" comm="游戏中（设置按钮）">
+			<region locale="CN" lang="zh" langid="2052" nation="CN" ></region>
+		</Scene>	
+		<Scene scene_id="10005" texture_id="3" comm="跳伞">
+			<region locale="CN" lang="zh" langid="2052" nation="CN" ></region>
+		</Scene>		
+		<Scene scene_id="10006" texture_id="87" comm="跳伞跟随">
+			<region locale="CN" lang="zh" langid="2052" nation="CN" ></region>
+		</Scene>
+		<Scene scene_id="10007" texture_id="16" comm="换弹药">
+			<region locale="CN" lang="zh" langid="2052" nation="CN" />
+		</Scene>
+		<Scene scene_id="10008" texture_id="501" comm="结算">
+			<region locale="CN" lang="zh" langid="2052" nation="CN" />
+		</Scene>
+	</item>
+</root>
